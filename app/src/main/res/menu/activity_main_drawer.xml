@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_product"
+            android:icon="@drawable/product"
+            android:title="INNO Product" />
+
+        <item
+            android:id="@+id/nav_package"
+            android:icon="@drawable/pack"
+            android:title="INNO Package" />
+
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/photo"
+            android:title="Food Waste" />
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/tut"
+            android:title="INNO Tutorials" />
+
+    </group>
+
+
+
+</menu>
