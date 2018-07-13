@@ -6,4 +6,5 @@ According to Hong Kong’s Environmental Protection Department, food waste contr
 ### Challenge
 Think about how technology can be used to help reduce food waste in Hong Kong. Develop a web or mobile app, interactive game, or other technology platform that would incentivize citizens, businesses, or government to address this issue.
 
-## Our Solutio
+## Our Solution
+Our Application - FoodInno, provide a platform for our users to buy products made by food waste, or buy our packages 
